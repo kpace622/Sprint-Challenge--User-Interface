@@ -202,3 +202,28 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* About Page */
+
+.jumbo-about {
+    margin-bottom: 40px;
+}
+
+.about-top-content {
+    margin-bottom: 20px;
+    /* border-bottom: 1px dashed black; */
+}
+
+
+.about-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border-top: 1px dashed black;
+}
+
+.about-features {
+    width: 48%;
+    margin: 10px 0px;
+    margin-top: 40px;
+}
